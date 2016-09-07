@@ -4,4 +4,4 @@ Based on the tutorial @ https://www.raywenderlich.com/105641/change-app-icon-bui
 * requires Ghostscript
 
 To use chmod +x the script.  Then invoke on you master image named AppIcon.png:
-./Apple-App-Store-Icon-Generator
+  ./generate-icons
